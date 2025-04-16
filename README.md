@@ -1,2 +1,2 @@
 # WealthTrack
-Financial pportfolio dashboard
+Financial portfolio dashboard
