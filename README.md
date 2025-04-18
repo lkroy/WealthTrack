@@ -4,7 +4,13 @@
 
 A modern financial dashboard for personal wealth management and investment tracking.
 
-![Dashboard Screenshot](https://drive.google.com/file/d/1HWA2t-7d3NllFCAbAUD-JU09fPdfXCo3/view?usp=sharing) <!-- Add actual screenshot URL -->
+![Dashboard Screenshot]<!-- Add actual screenshot URL -->
+![Screenshot 2025-04-18 170331](https://github.com/user-attachments/assets/301ec418-3610-4e01-9bf8-568179e6f1bc)
+
+![Screenshot 2025-04-18 170511](https://github.com/user-attachments/assets/9f8bedde-e7df-486c-9219-8becb5f17ed8)
+
+
+![Screenshot 2025-04-18 170547](https://github.com/user-attachments/assets/95912603-98d6-411b-8016-a9e9270eca3b)
 
 ## Features
 
