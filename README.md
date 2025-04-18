@@ -33,7 +33,7 @@ A modern financial dashboard for personal wealth management and investment track
 -
 ## Technologies
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,chartjs,tailwind,javascript)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind)
 
 **Frontend**
 - HTML5/Semantic Markup
